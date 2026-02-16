@@ -31,7 +31,7 @@ export default function Projects() {
     () => [
       {
         title: "Tribeo",
-        link: "https://tribeo-k12k.onrender.com/",
+        link: "https://tribeo.muheeb.dev/",
         bgColor: "#3F5F9A",
         img: isMobile ? mobileimage1 : desktopimage1,
       },
